@@ -17,6 +17,8 @@
     <modules>
         <module>missyou-state-0</module>
         <module>missyou-state-1</module>
+        <module>missyou-state-2</module>
+        <module>missyou-state-3</module>
     </modules>
     <properties>
         <java.version>11</java.version>
